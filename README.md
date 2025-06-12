@@ -32,10 +32,12 @@
 
 -----------------------------------------------------------------------------------------------------
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaCutlery&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaCutlery&layout=compact&theme=github_dark)](https://github.com/TahaCutlery)
+![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahacutlery&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tahacutlery&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahacutlery&layout=compact&theme=radical)
+
 
 -----------------------------------------------------------------------------------------------------
 
