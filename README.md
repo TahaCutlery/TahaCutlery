@@ -34,8 +34,8 @@
 
 ## 📈 GitHub Stats
 
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taha-cutlery&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-cutlery&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TahaCutlery&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaCutlery&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------------------------------------------------------------------------------------------------
 
