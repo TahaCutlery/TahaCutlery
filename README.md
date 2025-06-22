@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 ![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahacutlery&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tahacutlery&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.com?user=tahacutlery&theme=radical)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahacutlery&layout=compact&theme=radical)
 
 
